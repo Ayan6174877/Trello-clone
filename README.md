@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Create React App - A Trello Clone
+
+![Screenshot 2022-06-14 091104](https://user-images.githubusercontent.com/68985427/173488807-f79691d7-4e32-4250-bf8a-4bf710514816.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
